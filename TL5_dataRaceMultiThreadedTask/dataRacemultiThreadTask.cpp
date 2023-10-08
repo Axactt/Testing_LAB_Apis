@@ -1,6 +1,7 @@
 #include<thread>
 #include<iostream>
 
+//?Task is a function which can run concurrently with other tasks.
 //? A task is a function of function object
 //! data race problem on concurent tasks accessing  same cout ostream object in a multithreaded application
 
